@@ -9,7 +9,9 @@ For this project, I have used TITANIC case study to convert the solution noteboo
        It has information such as link to dataset, variable groups to be used in the preprocessing and modeling step
        
 ### 2. PREPROCESSING FILE:
-       It has information of all the definition required to preprocess the files. It has a pipeline class that contains 3 important functions : FIT, TRANSFORM & PREDICT
+       It has information of all the definition required to preprocess the files. 
+       It has a pipeline class that contains 3 important functions : FIT, TRANSFORM & PREDICT
        
 ### 3.  PIPELINE FILE:
-       In this file, we will call python utilities such as config.py and preocessing.py to use pipeline class and methods insided it that is FIT, TRANSFORM & PREDICT
+       In this file, we will call python utilities such as config.py and preocessing.py 
+       to use pipeline class and methods insided it that is FIT, TRANSFORM & PREDICT
